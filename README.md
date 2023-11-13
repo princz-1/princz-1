@@ -44,6 +44,7 @@
 </div>
 
 
+<img align="right" height="194" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princz-1&show_icons=true&locale=en&layout=compact" alt="princz-1" /></p>
 
