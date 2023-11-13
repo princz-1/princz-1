@@ -52,3 +52,17 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princz-1&" alt="princz-1" /></p>
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9fc8bc73199593.5c015119e6395.gif">
+
+=============================================
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
