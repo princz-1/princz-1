@@ -52,6 +52,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9fc8bc73199593.5c015119e6395.gif">
 
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princz-1&show_icons=true&locale=en&layout=compact" alt="princz-1" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=princz-1&show_icons=true&locale=en" alt="princz-1" /></p>
