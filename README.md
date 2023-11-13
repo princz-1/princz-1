@@ -1,4 +1,4 @@
-<img src="https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1703721600&v=beta&t=nm2DTQGZ43yLYuYF8cIe9lI-7g6kwhHch86xWZ2zfc0">
+<img src="https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1703721600&v=beta&t=nm2DTQGZ43yLYuYF8cIe9lI-7g6kwhHch86xWZ2zfc0">
 <h1 align="center">Hi 👋, I'm Prince Panchal</h1>
 <h3 align="center">A passionate Fullstack web developer from India</h3>
 <img aling="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
