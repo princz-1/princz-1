@@ -24,9 +24,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-<img align="right" height="194" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="c logo"  />
   <img width="5" />
